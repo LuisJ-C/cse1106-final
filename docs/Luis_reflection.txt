@@ -1,0 +1,10 @@
+During this project my contribution to the project was the whole first part of the project and I also helped with trouble shooting the code when there was a malfunction.
+I also set up test runs.
+
+The most difficult challenge of this process was when we initially had our code it worked fine but the only problem it had was the it didn't light up the led so we had to redo the code since we couldn't troubleshoot it 
+
+We tried to do debugging by switching out wires to see if what was wrong was the wires, we also switched out leds, we even changed pieces of the code. Ultimately we just ended up rewritting the code.
+
+I believe we used every single skill we learned during this sememster in this project I believe this helped greatly
+
+If I had more time I would choose to make a more difficult project.
